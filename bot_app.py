@@ -32,7 +32,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "ae1eb5cb-9a1c-460a-9749-7aeff45bdb1d",
    "metadata": {},
    "outputs": [],
@@ -40,7 +40,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "dad7b5c5-7b3e-4ee5-9c5f-8bd4988aa513",
    "metadata": {},
    "outputs": [],
