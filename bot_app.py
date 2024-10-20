@@ -10,7 +10,7 @@
     "import streamlit as st\n",
     "import numpy as np\n",
     "\n",
-    "# عنوان التطبيق\n",
+    "#تطبيق بوت \n",
     "st.title('Trading Chatbot')\n",
     "\n",
     "# إدخال المستخدم\n",
