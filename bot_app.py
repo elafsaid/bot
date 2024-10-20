@@ -9,7 +9,7 @@
    "source": [
     "import streamlit as st\n",
     "import numpy as np\n",
-    "\n",
+    "\n", 
     "#تطبيق بوت \n",
     "st.title('Trading Chatbot')\n",
     "\n",
