@@ -1,7 +1,0 @@
-numpy
-streamlit
-pandas
-tensorflow.keras
-Dense
-Embedding
-LSTM
